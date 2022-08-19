@@ -1,0 +1,8 @@
+--------------------------------( STUDENT RECORD )--------------------------------
+Name                : S.M.ZARYAB HAIDER NAQVI
+UserId              : NAQVI.123
+Roll #              : 68
+Enrollment No.      : 17
+Entry Test Score    : 70
+Merit No.            : 27
+Discilpine          : Bio-Technology
