@@ -4,7 +4,7 @@
 
 <p><a href="https://github.com/Muhammad-Jawwad">Muhammad-Jawwad</a></p>
 <p><a href="https://github.com/Asad-devv">Asadullah</a></p>
-Muhammad Taha khan
+<p><a href="https://github.com/TAHA2255">Muhammad Taha khan</a></p>
 
 ## Focus
 
